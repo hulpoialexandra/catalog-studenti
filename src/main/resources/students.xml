@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="1">
+        <nume>Hulpoi</nume>
+        <prenume>Alexandra</prenume>
+        <grupa>223</grupa>
+        <email>hulpoialexandra08@gamil.com</email>
+        <prof>Roxana</prof>
+    </student>
+    <student id="2">
+        <nume>Popa</nume>
+        <prenume>Paul</prenume>
+        <grupa>222</grupa>
+        <email>popapaul@gamil.com</email>
+        <prof>Ana</prof>
+    </student>
+    <student id="4">
+        <nume>Dan</nume>
+        <prenume>Cristi</prenume>
+        <grupa>227</grupa>
+        <email>crpop@gamil.com</email>
+        <prof>Dana</prof>
+    </student>
+    <student id="3">
+        <nume>Ciulica</nume>
+        <prenume>Horia</prenume>
+        <grupa>222</grupa>
+        <email>hciulica@gmail.com</email>
+        <prof>Roxana</prof>
+    </student>
+</students>

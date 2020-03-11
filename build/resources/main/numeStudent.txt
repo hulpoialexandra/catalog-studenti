@@ -1,0 +1,79 @@
+Studentul: Hulpoi Alexandra
+Tema: 4
+Nota: 9
+Predata in saptamana: 10
+Deadline: 8
+Feedback: Incomplet
+
+
+Studentul: Popa Paul
+Tema: 4
+Nota: 10
+Predata in saptamana: 7
+Deadline: 8
+Feedback: Nici o observatie
+
+
+Studentul: Ciulica Horia
+Tema: 2
+Nota: 10
+Predata in saptamana: 10
+Deadline: 2
+Feedback: Nicio observatie
+
+
+Studentul: Ciulica Horia
+Tema: 4
+Nota: 8
+Predata in saptamana: 10
+Deadline: 8
+Feedback: Nota a fost diminuata cu 2 puncte datorita intarzierilor
+
+
+Studentul: Hulpoi Alexandra
+Tema: 2
+Nota: 10
+Predata in saptamana: 10
+Deadline: 2
+Feedback: Nicio observatie
+
+
+Studentul: Hulpoi Alexandra
+Tema: 1
+Nota: 7
+Predata in saptamana: 10
+Deadline: 7
+Feedback: Nicio observatie
+
+
+Studentul: Dan Cristi
+Tema: 1
+Nota: 0
+Predata in saptamana: 10
+Deadline: 7
+Feedback: Nota a fost diminuata cu 10 puncte datorita intarzierilor
+
+
+Studentul: Dan Cristi
+Tema: 4
+Nota: 1
+Predata in saptamana: 10
+Deadline: 8
+Feedback: Nicio observatie
+
+
+Studentul: Popa Paul
+Tema: 1
+Nota: 9
+Predata in saptamana: 4
+Deadline: 7
+Feedback: Nicio observatie
+
+
+Studentul: Popa Paul
+Tema: 2
+Nota: 9
+Predata in saptamana: 9
+Deadline: 2
+Feedback: Nicio observatie
+
